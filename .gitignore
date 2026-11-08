@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 输出
+out/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
